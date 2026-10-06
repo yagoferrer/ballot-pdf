@@ -1,0 +1,1119 @@
+{
+ "meta": {
+  "title": "San Diego County — November 3, 2026 General Election Ballot",
+  "heading": "OFFICIAL BALLOT — STATEWIDE GENERAL ELECTION",
+  "subheading": "NOVEMBER 3, 2026 · SAN DIEGO COUNTY, CALIFORNIA · CA-50 · AD-78 · SUPERVISOR D4 · COUNCIL D2",
+  "page_label": "Nov 3, 2026 Ballot",
+  "disclaimer": "Finalists from certified June 2 results and your printed ballot — verify against your official sample ballot. Corruption notes from search summaries; details in corruption-*.md."
+ },
+ "rules": [
+  {
+   "title": "1. No corruption",
+   "detail": "ethics findings, fines, settlements, probes (old/cleared = borderline)"
+  },
+  {
+   "title": "2. Climate change is real",
+   "detail": "no deniers or doubters"
+  },
+  {
+   "title": "3. No fossil-fuel expansion",
+   "detail": "no more oil/gas or weaker environmental review"
+  },
+  {
+   "title": "4. Anti-gun",
+   "detail": "no pro-gun records or gun-group endorsements"
+  },
+  {
+   "title": "5. No tax increases — except on billionaires",
+   "detail": "billionaire taxes OK; blocking them counts against"
+  },
+  {
+   "title": "6. Not housing-first",
+   "detail": "building housing isn't the main homelessness fix"
+  }
+ ],
+ "rules_footer": "When every option breaks a rule, the pick is marked \"Lean\" (toss-up). Leaving a race blank is always an option.",
+ "items": [
+  {
+   "type": "card",
+   "text": "CARD A · FRONT"
+  },
+  {
+   "type": "banner",
+   "text": "Voter-Nominated Offices — State"
+  },
+  {
+   "type": "office",
+   "title": "Governor",
+   "candidates": [
+    {
+     "name": "Xavier Becerra",
+     "title": "Voting Rights Attorney (former U.S. HHS Secretary)",
+     "party": "D",
+     "pros": [
+      "Not on any of your June filter lists",
+      "Homelessness: accountability for funding; no voluntary homelessness when shelter offered"
+     ],
+     "cons": [
+      "Wants to extend higher tax rates on top earners",
+      "Opposes the billionaire tax (Prop 40), which your rules allow",
+      "Open to weakening clean-energy goals / 2035 gas-car ban if fuel gets costly",
+      "Housing emergency + zoning push (supply-leaning)"
+     ],
+     "corruption": "MINOR — Victim (not suspect) of ~$225K stolen from his dormant campaign account by ex-Newsom chief of staff (guilty plea May 2026). 2023 Office of Special Counsel found a Hatch Act violation (endorsed Padilla at an official event).",
+     "best": {
+      "lean": false,
+      "why": "Hilton fails fossil-fuel and gun rules; Becerra's ethics issue is as a victim."
+     }
+    },
+    {
+     "name": "Steve Hilton",
+     "title": "Small Business Owner (commentator, ex-adviser to UK PM)",
+     "party": "R",
+     "pros": [
+      "Tax cuts: no income tax on first $150K, halve gas tax",
+      "Not housing-first: clear encampments, sober housing"
+     ],
+     "cons": [
+      "Pro fossil fuel: more oil & gas, end renewable mandates",
+      "Pro-guns: loosen firearm restrictions"
+     ],
+     "corruption": "CLEAN — nothing found."
+    }
+   ]
+  },
+  {
+   "type": "office",
+   "title": "Lieutenant Governor",
+   "candidates": [
+    {
+     "name": "Fiona Ma",
+     "title": "State Treasurer/CPA",
+     "party": "D",
+     "pros": [
+      "Long fiscal experience (Treasurer, BOE)"
+     ],
+     "cons": [
+      "On your June corrupt list"
+     ],
+     "corruption": "MINOR, borderline SERIOUS — $350K state-paid settlement of harassment suit (denied, not adjudicated); donor ties to China school accused of diploma fraud; support letter for convicted briber Ken Hong Wong. Nothing proven."
+    },
+    {
+     "name": "Gloria Romero",
+     "title": "Educator/Businesswoman (ex-Senate majority leader)",
+     "party": "R",
+     "pros": [
+      "Clean ethics record",
+      "School-choice advocate"
+     ],
+     "cons": [
+      "Pro-guns via GOP alignment (June filter)",
+      "Switched D→R in 2024; no climate position found"
+     ],
+     "corruption": "CLEAN — nothing found.",
+     "best": {
+      "lean": true,
+      "why": "Toss-up. Ma has real ethics baggage; Romero's pro-gun flag is party-based only and Lt. Gov has little say on guns."
+     }
+    }
+   ]
+  },
+  {
+   "type": "office",
+   "title": "Secretary of State",
+   "candidates": [
+    {
+     "name": "Shirley N. Weber",
+     "title": "California Secretary of State",
+     "party": "D",
+     "pros": [
+      "Your June pick; experienced election administrator"
+     ],
+     "cons": [],
+     "corruption": "MINOR — $4,000 FPPC fine (2014) for late contribution reports. Pending Judicial Watch voter-roll suit is a policy dispute, not personal ethics.",
+     "prior_pick": true,
+     "incumbent": true,
+     "best": {
+      "lean": false,
+      "why": "June pick; minor 2014 filing fine only."
+     }
+    },
+    {
+     "name": "Donald P. (Don) Wagner",
+     "title": "Orange County Supervisor",
+     "party": "R",
+     "pros": [
+      "Pushed to remove scandal-hit Supervisor Andrew Do from committees"
+     ],
+     "cons": [
+      "Consistent pro-Second Amendment record (June filter)"
+     ],
+     "corruption": "CLEAN — nothing found."
+    }
+   ]
+  },
+  {
+   "type": "office",
+   "title": "Controller",
+   "candidates": [
+    {
+     "name": "Herb W. Morgan",
+     "title": "Chief Investment Officer",
+     "party": "R",
+     "pros": [
+      "Fiscal watchdog framing"
+     ],
+     "cons": [
+      "Calls climate spending \"fraud, waste, and abuse\" (June climate-denial list)"
+     ],
+     "corruption": "CLEAN — nothing found."
+    },
+    {
+     "name": "Malia M. Cohen",
+     "title": "State Controller/Mother",
+     "party": "D",
+     "pros": [
+      "Your June pick"
+     ],
+     "cons": [],
+     "corruption": "CLEAN — FPPC audit of her 2018 campaign closed with no action.",
+     "prior_pick": true,
+     "incumbent": true,
+     "best": {
+      "lean": false,
+      "why": "June pick; clean. Morgan downplays climate."
+     }
+    }
+   ]
+  },
+  {
+   "type": "office",
+   "title": "Treasurer",
+   "candidates": [
+    {
+     "name": "Eleni Kounalakis",
+     "title": "Lieutenant Governor of California",
+     "party": "D",
+     "pros": [
+      "Experienced statewide official"
+     ],
+     "cons": [
+      "Housing-first: \"affordable housing is the #1 factor in homelessness\" (June filter)"
+     ],
+     "corruption": "MINOR — Owns Sacramento buildings leased to state agencies, no blind trust (disclosed; no violation found). FPPC declined a separate complaint."
+    },
+    {
+     "name": "Jennifer Hawks",
+     "title": "Retired Business Executive",
+     "party": "R",
+     "pros": [
+      "Your June pick; fiscal discipline focus"
+     ],
+     "cons": [
+      "No climate statements found",
+      "Critics question her experience"
+     ],
+     "corruption": "CLEAN — nothing found.",
+     "prior_pick": true,
+     "best": {
+      "lean": false,
+      "why": "June pick; clean. Kounalakis is housing-first."
+     }
+    }
+   ]
+  },
+  {
+   "type": "office",
+   "title": "Attorney General",
+   "candidates": [
+    {
+     "name": "Michael E. Gates",
+     "title": "Deputy United States Attorney",
+     "party": "R",
+     "pros": [
+      "Former prosecutor"
+     ],
+     "cons": [
+      "Called climate change a \"hoax\"; deal benefiting oil company Amplify Energy (June fossil-fuel list)"
+     ],
+     "corruption": "MINOR — $600 FPPC fine (May 2026) for unreported gift (airshow VIP passes); disputed conflict report in a Huntington Beach employee lawsuit."
+    },
+    {
+     "name": "Rob Bonta",
+     "title": "California Attorney General",
+     "party": "D",
+     "pros": [
+      "Sued oil companies over climate/plastics deception",
+      "Strong gun-safety enforcement"
+     ],
+     "cons": [
+      "On your June corrupt list"
+     ],
+     "corruption": "MINOR, borderline SERIOUS — $468K of campaign funds paid legal fees during the Oakland Thao/Duong bribery probe; FBI treated him as a witness, never charged; returned $155K in Duong donations. \"Compromising video\" claim unverified.",
+     "incumbent": true,
+     "best": {
+      "lean": true,
+      "why": "Gates calls climate a hoax and backs oil. Bonta fights oil companies and enforces gun laws; his probe issue was never charged."
+     }
+    }
+   ]
+  },
+  {
+   "type": "office",
+   "title": "Insurance Commissioner",
+   "candidates": [
+    {
+     "name": "Ben Allen",
+     "title": "California State Senator",
+     "party": "D",
+     "pros": [
+      "Your June pick",
+      "Authored climate bond; wants fossil-fuel industry accountable for wildfire risk",
+      "Chairs Senate Aerospace & Defense committee"
+     ],
+     "cons": [],
+     "corruption": "MINOR (uncertain) — ~2011 FPPC conflict stipulation from a Santa Rosa planning commissioner named Ben Allen; may be a different person. Nothing 2024–26.",
+     "prior_pick": true,
+     "best": {
+      "lean": false,
+      "why": "June pick; strongest on holding fossil fuels accountable."
+     }
+    },
+    {
+     "name": "Jane Kim",
+     "title": "Attorney/Consumer Advocate",
+     "party": "D",
+     "pros": [
+      "Insurers should disclose if premiums fund fossil fuels",
+      "State-run disaster insurance for all"
+     ],
+     "cons": [
+      "Housing-first career as SF Supervisor (June filter)",
+      "Public insurance plan may need new funding"
+     ],
+     "corruption": "MINOR — 2022 SF Ethics Commission probe over unregistered lobbying; outcome not found (alleged only)."
+    }
+   ],
+   "note": "Two Democrats advanced."
+  },
+  {
+   "type": "office",
+   "title": "Member, State Board of Equalization — District 4",
+   "candidates": [
+    {
+     "name": "Tom Umberg",
+     "title": "Small Businessman/Senator",
+     "party": "D",
+     "pros": [
+      "Your June pick"
+     ],
+     "cons": [
+      "Backed by CTA and SEIU (pro-tax groups)"
+     ],
+     "corruption": "MINOR — FPPC warning letter (Mar 2024) for a late behested-payment report; no fine.",
+     "prior_pick": true,
+     "best": {
+      "lean": false,
+      "why": "June pick; minor warning letter only. Bilodeau is pro-gun."
+     }
+    },
+    {
+     "name": "Denis Bilodeau",
+     "title": "Councilmember/Civil Engineer (Orange; taxpayer assn. president)",
+     "party": "R",
+     "pros": [
+      "Anti-tax (Howard Jarvis endorsement)"
+     ],
+     "cons": [
+      "Pro-guns (June filter); anti-regulation"
+     ],
+     "corruption": "MINOR (old) — ~2008 allegation he billed OC Water District for missed meetings; he denied it; no outcome found."
+    }
+   ]
+  },
+  {
+   "type": "banner",
+   "text": "U.S. Representative"
+  },
+  {
+   "type": "office",
+   "title": "United States Representative — District 50",
+   "candidates": [
+    {
+     "name": "Scott Peters",
+     "title": "Member of Congress",
+     "party": "D",
+     "pros": [
+      "Strong climate record (LCV, methane law, Fix Our Forests Act)",
+      "Supports gun reform",
+      "Voted for NDAA with UAP disclosure provisions"
+     ],
+     "cons": [
+      "Housing-first: co-founded YIMBY Caucus (June filter)",
+      "Backs permitting reform that also helps fossil-fuel infrastructure"
+     ],
+     "corruption": "MINOR (old) — 2002–04 city pension underfunding: SEC called council \"negligent\"; he was never charged. No stock-trading violations found.",
+     "incumbent": true,
+     "best": {
+      "lean": false,
+      "why": "Strong climate and gun-reform record; Cohen is pro-gun with no climate position."
+     }
+    },
+    {
+     "name": "Steve Cohen",
+     "title": "Television News Consultant (ex-KUSI news director)",
+     "party": "R",
+     "pros": [
+      "Balanced-budget / fiscal accountability",
+      "Outsider, no political record"
+     ],
+     "cons": [
+      "Pro-guns: SD County Gun Owners 2020 Media Figure of the Year (June filter)",
+      "No climate position found"
+     ],
+     "corruption": "CLEAN — nothing found."
+    }
+   ]
+  },
+  {
+   "type": "banner",
+   "text": "State Assembly"
+  },
+  {
+   "type": "office",
+   "title": "Member of the State Assembly — District 78",
+   "candidates": [
+    {
+     "name": "Chris Ward",
+     "title": "Member of the State Assembly, 78th District",
+     "party": "D",
+     "pros": [
+      "Your June pick: 98% LCV score, community-solar law, anti-gun"
+     ],
+     "cons": [
+      "Housing-first: chairs housing committee (you kept him anyway in June)"
+     ],
+     "corruption": "CLEAN — nothing found.",
+     "prior_pick": true,
+     "incumbent": true,
+     "best": {
+      "lean": false,
+      "why": "June pick; 98% LCV, anti-gun."
+     }
+    },
+    {
+     "name": "Payton Galvez",
+     "title": "Constituent Services Manager (Reform California)",
+     "party": "R",
+     "pros": [
+      "Anti-tax platform"
+     ],
+     "cons": [
+      "Pro-guns via Reform California alignment (June filter)"
+     ],
+     "corruption": "CLEAN — nothing personal; employer Reform California is controversial."
+    }
+   ]
+  },
+  {
+   "type": "banner",
+   "text": "Nonpartisan Offices — Judicial"
+  },
+  {
+   "type": "note",
+   "style": "rec-yes",
+   "text": "★ Recommendation: YES on all 17 justices — every one came back CLEAN (no Commission on Judicial Performance discipline, scandals or controversies) and no campaign exists against any of them. Judges cannot take positions on your issues, so rule 1 (corruption) is the test. A No vote lets the governor appoint the replacement."
+  },
+  {
+   "type": "retention",
+   "title": "Associate Justice, Supreme Court",
+   "justices": [
+    {
+     "name": "Joshua Groban",
+     "bio": "Appointed by Gov. Brown (2019); ex-Brown senior adviser; retained 74% in 2022",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    },
+    {
+     "name": "Kelli M. Evans",
+     "bio": "Appointed by Gov. Newsom (2023); ex-civil-rights attorney, public defender, judge",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    }
+   ]
+  },
+  {
+   "type": "retention",
+   "title": "Associate Justice, Court of Appeal, 4th District, Division One (San Diego)",
+   "justices": [
+    {
+     "name": "Julia C. Kelety",
+     "bio": "Newsom 2023; ex-federal prosecutor; 19 yrs SD Superior Court; sits on the judicial-discipline commission",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    },
+    {
+     "name": "Jose S. Castillo",
+     "bio": "Newsom 2023; ex-Marine; ex-federal prosecutor (cartels, gangs)",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    },
+    {
+     "name": "Truc T. Do",
+     "bio": "Newsom 2021; ex-LA prosecutor, then civil/white-collar defense",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    },
+    {
+     "name": "William S. Dato",
+     "bio": "Brown 2016; plaintiff-side class-action lawyer; 13 yrs SD Superior Court",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    },
+    {
+     "name": "Eran M. Bermudez",
+     "bio": "Newsom 2026; public-sector lawyer; Imperial County presiding judge",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    },
+    {
+     "name": "Lisa Rodriguez",
+     "bio": "SD Superior Court judge; Newsom nominee (2026), starts Jan 2027; ex-SD prosecutor ~17 yrs",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    },
+    {
+     "name": "David M. Rubin",
+     "bio": "Newsom 2023; SD DA prosecutor from 1986; ~17 yrs SD Superior Court",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    }
+   ]
+  },
+  {
+   "type": "retention",
+   "title": "Associate Justice, Court of Appeal, 4th District, Division Two (Riverside)",
+   "justices": [
+    {
+     "name": "Corey G. Lee",
+     "bio": "Newsom 2025; ex-federal prosecutor; San Bernardino Superior Court",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    },
+    {
+     "name": "Michael J. Raphael",
+     "bio": "Brown 2018; ex-federal prosecutor (chief of appeals)",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    }
+   ]
+  },
+  {
+   "type": "retention",
+   "title": "Court of Appeal, 4th District, Division Three (Santa Ana)",
+   "justices": [
+    {
+     "name": "Joanne Motoike (Presiding Justice)",
+     "bio": "Newsom 2022, Presiding Justice 2026; ex-public defender 19 yrs",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    },
+    {
+     "name": "Thomas A. Delaney",
+     "bio": "Newsom 2022; civil defense lawyer; OC Superior Court",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    },
+    {
+     "name": "Nathan R. Scott",
+     "bio": "Newsom 2024; appellate lawyer; OC Superior Court",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    },
+    {
+     "name": "Deborah C. Servino",
+     "bio": "Newsom 2026; ex-Deputy Attorney General; OC Superior Court",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    },
+    {
+     "name": "Martha K. Gooding",
+     "bio": "Newsom 2023; 30 yrs civil practice; OC Superior Court",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    },
+    {
+     "name": "Juliet O. Macaulay",
+     "bio": "Newsom nominee (2026), starts Jan 2027; administrative-law judge",
+     "corruption": "CLEAN",
+     "rec": "YES"
+    }
+   ]
+  },
+  {
+   "type": "banner",
+   "text": "School"
+  },
+  {
+   "type": "office",
+   "title": "Superintendent of Public Instruction",
+   "candidates": [
+    {
+     "name": "Richard Barrera",
+     "title": "State Superintendent Advisor (SDUSD board president)",
+     "party": "DEM-backed",
+     "pros": [
+      "More school funding, early-childhood education"
+     ],
+     "cons": [
+      "June corrupt list: his union accused him of inaction on harassment",
+      "CTA-backed (pushing Prop 3 tax)"
+     ],
+     "corruption": "MINOR — $2,000 ethics fine (2016) against a committee he ran; outside attorney cleared a union-role conflict.",
+     "best": {
+      "lean": true,
+      "why": "Both were on your corrupt list. Shaw is gun-group endorsed; Barrera's record is a $2K committee fine."
+     }
+    },
+    {
+     "name": "Sonja Shaw",
+     "title": "School District President (Chino Valley)",
+     "party": "REP-backed",
+     "pros": [
+      "No personal ethics findings in new check",
+      "Back-to-basics academics"
+     ],
+     "cons": [
+      "June corrupt list: accused of cyber-harassing a transgender student's family",
+      "Endorsed by CA Rifle & Pistol Assn and Moms for Liberty"
+     ],
+     "corruption": "CLEAN (personal) — her district faces an AG civil-rights probe (policy, not personal)."
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "text": "CARD A · BACK"
+  },
+  {
+   "type": "banner",
+   "text": "School"
+  },
+  {
+   "type": "office",
+   "title": "San Diego Community College District — Board of Trustees, District A",
+   "candidates": [
+    {
+     "name": "Maria Nieto Senour",
+     "title": "Governing Board Member, San Diego Community College District",
+     "party": "DEM-endorsed",
+     "pros": [
+      "Your June pick",
+      "On the board since 1990; led the SD Promise free-tuition program; ex-SDSU professor",
+      "78% in June"
+     ],
+     "cons": [
+      "Positions on your issues not found"
+     ],
+     "corruption": "CLEAN — nothing found.",
+     "prior_pick": true,
+     "incumbent": true,
+     "best": {
+      "lean": false,
+      "why": "June pick; 36 years on the board, clean. Brown has almost no public record."
+     }
+    },
+    {
+     "name": "Jonny Brown",
+     "title": "Student Advocate/Writer",
+     "party": "Unknown",
+     "pros": [
+      "Student perspective"
+     ],
+     "cons": [
+      "Almost no public record; positions not found",
+      "22% in June"
+     ],
+     "corruption": "CLEAN — but almost no public record to check."
+    }
+   ]
+  },
+  {
+   "type": "banner",
+   "text": "County"
+  },
+  {
+   "type": "office",
+   "title": "County Board of Supervisors — District 4",
+   "candidates": [
+    {
+     "name": "Kristine C. Alessio",
+     "title": "Attorney (land-use; former La Mesa councilmember)",
+     "party": "R",
+     "pros": [
+      "Opposes new taxes and the Measure B sales tax",
+      "Not housing-first: opposes high-density housing",
+      "Led La Mesa's Climate Action Plan"
+     ],
+     "cons": [
+      "Republican; gun position not found"
+     ],
+     "corruption": "MINOR — FPPC warning letter (Sept 2024) for not filing leaving-office financial statements (SANDAG, Metro Wastewater); proven, no fine. A 2022 mailer was criticized as misleading (alleged)."
+    },
+    {
+     "name": "Monica Montgomery Steppe",
+     "title": "San Diego County Supervisor (ex-City Council, ex-ACLU)",
+     "party": "D",
+     "pros": [
+      "Pro gun-safety",
+      "Homelessness: housing plus behavioral health and services (not purely housing-first)"
+     ],
+     "cons": [
+      "Supports the Measure B permanent sales tax",
+      "Climate position not found"
+     ],
+     "corruption": "CLEAN — nothing found.",
+     "incumbent": true,
+     "best": {
+      "lean": true,
+      "why": "Clean record and pro gun-safety; Alessio has an FPPC warning (2024). Note: Montgomery Steppe backs the Measure B sales tax."
+     }
+    }
+   ]
+  },
+  {
+   "type": "office",
+   "title": "Assessor/Recorder/County Clerk",
+   "candidates": [
+    {
+     "name": "Jordan Z. Marks",
+     "title": "Assessor/Recorder/County Clerk",
+     "party": "R",
+     "pros": [
+      "Only candidate"
+     ],
+     "cons": [],
+     "corruption": "CLEAN — a 2020 campaign-disclosure complaint named his office, not him; FPPC found it disproven (closed 2023).",
+     "incumbent": true,
+     "best": {
+      "lean": false,
+      "why": "Unopposed; clean. You can also leave it blank."
+     }
+    }
+   ],
+   "note": "Unopposed."
+  },
+  {
+   "type": "office",
+   "title": "County Treasurer-Tax Collector",
+   "candidates": [
+    {
+     "name": "Larry Cohen",
+     "title": "Appointed Treasurer Tax Collector San Diego County",
+     "party": "D",
+     "pros": [
+      "Your June pick"
+     ],
+     "cons": [
+      "No climate statements"
+     ],
+     "corruption": "MINOR (process) — appointment alleged to be a backroom deal involving Sup. Joel Anderson (La Prensa; alleged).",
+     "prior_pick": true,
+     "incumbent": true,
+     "best": {
+      "lean": false,
+      "why": "June pick; both have minor issues."
+     }
+    },
+    {
+     "name": "Shirley Nakawatase",
+     "title": "Businesswoman/Treasurer/CPA",
+     "party": "R",
+     "pros": [
+      "CPA with treasury experience"
+     ],
+     "cons": [
+      "No climate statements"
+     ],
+     "corruption": "MINOR (appearance) — daughter works for Sup. Joel Anderson; flagged as potential conflict."
+    }
+   ]
+  },
+  {
+   "type": "banner",
+   "text": "City"
+  },
+  {
+   "type": "office",
+   "title": "City of San Diego — Council Member, District 2",
+   "candidates": [
+    {
+     "name": "Richard Bailey",
+     "title": "San Diego Business Owner (former Mayor of Coronado)",
+     "party": "NPP (ex-REP)",
+     "pros": [
+      "Anti-tax: opposes sales-tax hikes, wants fee repeal",
+      "Not housing-first: opposes density bonus"
+     ],
+     "cons": [
+      "Pro-guns: SD County Gun Owners PAC endorsement (June filter)",
+      "Would cut homelessness funding; outsource city services"
+     ],
+     "corruption": "MINOR — FPPC warning letter (Mar 2026) for unreported stocks 2020–22, no fine, amended. One Point Loma family reportedly ready to spend $1M+ for him (not a violation). Gun-runner leniency letter unverified."
+    },
+    {
+     "name": "Nicole Crosby",
+     "title": "Deputy City Attorney",
+     "party": "D",
+     "pros": [
+      "Your June pick",
+      "No homelessness funding cuts; better coordination",
+      "Opposes density above coastal 30-ft limit"
+     ],
+     "cons": [
+      "Would support a sales-tax hike (tax filter)",
+      "Backed by city workers' union (MEA)"
+     ],
+     "corruption": "CLEAN — union-influence concern is critics' allegation only.",
+     "prior_pick": true,
+     "best": {
+      "lean": true,
+      "why": "June pick and clean. Bailey is gun-group endorsed. Note: Crosby would back a sales-tax hike."
+     }
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "text": "CARD B · FRONT — STATE MEASURES"
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 1",
+   "subtitle": "Housing Affordability Bonds",
+   "summary": "$11.25B bond for affordable rentals, supportive housing, veterans' home loans and down-payment help. Cost: $500–600M/yr for ~25 years.",
+   "pros": [
+    "Funds veterans' housing and supportive housing"
+   ],
+   "cons": [
+    "Housing-first-style funding",
+    "Adds state debt"
+   ],
+   "money": "Airbnb $1M, carpenters $1M, Building a Better California $1M. No opposition filed.",
+   "rec": {
+    "vote": "NO",
+    "lean": false,
+    "why": "Housing-first-style spending plus $500–600M/yr in new debt."
+   }
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 2",
+   "subtitle": "Increases State's Rainy Day Fund",
+   "summary": "Changes reserve deposit limits and debt-paydown rules; state reserves would be higher.",
+   "pros": [
+    "Fiscally prudent; bigger reserves",
+    "No tax"
+   ],
+   "cons": [],
+   "money": "Backed by Newsom, Becerra, firefighters. No opposition.",
+   "rec": {
+    "vote": "YES",
+    "lean": false,
+    "why": "Bigger reserves, no tax; nothing against your priorities."
+   }
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 3",
+   "subtitle": "Permanent Tax on High Incomes",
+   "summary": "Makes the income tax on earners above ~$371K permanent instead of expiring in 2031. Keeps $5–15B/yr for schools and health care.",
+   "pros": [
+    "Stable school funding"
+   ],
+   "cons": [
+    "Permanent tax increase (your tax filter)"
+   ],
+   "money": "CTA $33M, NEA $7.5M. No funded opposition.",
+   "rec": {
+    "vote": "NO",
+    "lean": false,
+    "why": "Permanent tax increase."
+   }
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 4",
+   "subtitle": "Public Funding of Election Campaigns",
+   "summary": "Lets state and local governments create public campaign-financing programs.",
+   "pros": [
+    "Anti-corruption: reduces reliance on big donors",
+    "Backed by League of Women Voters, Consumer Watchdog"
+   ],
+   "cons": [
+    "Uses public money for campaigns"
+   ],
+   "money": "No major funders.",
+   "rec": {
+    "vote": "YES",
+    "lean": false,
+    "why": "Anti-corruption: less dependence on big donors."
+   }
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 5",
+   "subtitle": "Recall Election Process",
+   "summary": "Removes the replacement question from recall ballots; vacancy filled by special election or appointment.",
+   "pros": [
+    "Prevents a replacement winning with a tiny plurality"
+   ],
+   "cons": [
+    "Voters lose direct choice of replacement on recall day"
+   ],
+   "money": "Backed by LWV and Common Cause. No opposition.",
+   "rec": {
+    "vote": "YES",
+    "lean": true,
+    "why": "Not tied to your priorities; good-government groups back it, no opposition."
+   }
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 37",
+   "subtitle": "Middle-Income New-Home Loans",
+   "summary": "Up to $25B in revenue bonds for fixed-rate mortgages on new homes under ~$1.5M. No direct state cost.",
+   "pros": [
+    "Homeownership help at no taxpayer cost"
+   ],
+   "cons": [
+    "Mainly benefits the realtors and builders paying for it",
+    "Demand subsidy could push prices up"
+   ],
+   "money": "CA Realtors $14.85M, Building a Better California $6M, carpenters.",
+   "rec": {
+    "vote": "NO",
+    "lean": true,
+    "why": "Benefits the realtors and builders funding it; not a homelessness fix."
+   }
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 38",
+   "subtitle": "Immunology Research Bonds",
+   "summary": "$8.4B bond for immunology research. Cost: $500–600M/yr for ~20 years.",
+   "pros": [
+    "Research on immune diseases and cancer"
+   ],
+   "cons": [
+    "Adds $8.4B debt"
+   ],
+   "money": "Self-dealing concern (CalMatters): rules fit only one institute (CIIT), chaired by top funder Gary Michelson, who gave ~$18–19M.",
+   "rec": {
+    "vote": "NO",
+    "lean": false,
+    "why": "$8.4B debt and a self-dealing concern."
+   }
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 39",
+   "subtitle": "Voter Identification",
+   "summary": "Government ID required to vote in person; last four digits of an ID number on mail ballots.",
+   "pros": [
+    "Election-integrity measure"
+   ],
+   "cons": [
+    "Costs tens to hundreds of millions/yr",
+    "May block some eligible voters"
+   ],
+   "money": "$17M from Richard Uihlein (Trump-aligned Illinois billionaire), $3.1M Reform California. Against: ACLU, Common Cause, LWV.",
+   "rec": {
+    "vote": "NO",
+    "lean": true,
+    "why": "Not tied to your priorities; costs taxpayers yearly and is bankrolled by the Reform California network."
+   }
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 40",
+   "subtitle": "One-Time Tax on Billionaires",
+   "summary": "One-time 5% tax on wealth over $1B (~200 people), ~90% to health care.",
+   "pros": [
+    "Taxes only billionaires — OK under your rules",
+    "Funds health care from the ultra-wealthy only"
+   ],
+   "cons": [
+    "Billionaires may leave, cutting future income-tax revenue"
+   ],
+   "money": "For: SEIU-UHW $32M (has spent ~$125M on ballot measures since 2012). Against: $88.5M+ — Building a Better California is funded by tech billionaires (Sergey Brin largest, plus Doerr, Thiel, Levchin, Collison and others).",
+   "rec": {
+    "vote": "YES",
+    "lean": false,
+    "why": "Taxes only ~200 billionaires — allowed under your rules; funds health care."
+   }
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 41",
+   "subtitle": "No Taxes Exempt from Spending Limit",
+   "summary": "Voids post-2026 state taxes exempt from the spending limit; State Auditor reviews special-tax programs.",
+   "pros": [
+    "Audits of special-tax programs",
+    "Limits some future taxes on everyone"
+   ],
+   "cons": [
+    "Written to kill billionaire taxes like Prop 40 (allowed by your rules)"
+   ],
+   "money": "$58M from Building a Better California is funded by tech billionaires (Sergey Brin largest, plus Doerr, Thiel, Levchin, Collison and others).",
+   "rec": {
+    "vote": "NO",
+    "lean": true,
+    "why": "Written to void billionaire taxes like Prop 40; paid for by the billionaires it protects."
+   }
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 42",
+   "subtitle": "Ban State Wealth / Personal Property Taxes",
+   "summary": "Bans new state wealth (personal property) taxes and certain retroactive taxes.",
+   "pros": [
+    "Blocks retroactive state taxes"
+   ],
+   "cons": [
+    "Bans billionaire wealth taxes (allowed by your rules)",
+    "Biggest one-funder campaign on the ballot, paid for by those it protects"
+   ],
+   "money": "$98M from Building a Better California is funded by tech billionaires (Sergey Brin largest, plus Doerr, Thiel, Levchin, Collison and others).",
+   "rec": {
+    "vote": "NO",
+    "lean": false,
+    "why": "Bans billionaire wealth taxes, which your rules allow; $98M from the billionaires it protects."
+   }
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 43",
+   "subtitle": "Two-Thirds for Local Special Taxes",
+   "summary": "Certain local special taxes need two-thirds instead of a majority, starting 2027.",
+   "pros": [
+    "Makes local tax increases harder (your tax filter)"
+   ],
+   "cons": [
+    "Could limit local fire, transit and homelessness funding"
+   ],
+   "money": "CA Business Roundtable $9.85M, Kilroy Realty $1M. Against: firefighters, teachers, SEIU.",
+   "rec": {
+    "vote": "YES",
+    "lean": false,
+    "why": "Makes local tax increases harder."
+   }
+  },
+  {
+   "type": "card",
+   "text": "CARD B · BACK (not in your photos — verify)"
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 44",
+   "subtitle": "Clinics Must Spend 90% on Services",
+   "summary": "Nonprofit community health clinics must spend at least 90% of revenue on program services.",
+   "pros": [
+    "Targets clinic executive pay / accountability"
+   ],
+   "cons": [
+    "Opposed by doctors, pediatricians and Family Health Centers of San Diego",
+    "Similar bill already failed"
+   ],
+   "money": "SEIU funds 100% of Yes ($16.9M); clinics (AltaMed etc.) fund No.",
+   "rec": {
+    "vote": "NO",
+    "lean": true,
+    "why": "Union-vs-clinic fight; local clinics and doctors oppose."
+   }
+  },
+  {
+   "type": "measure",
+   "title": "Proposition 45",
+   "subtitle": "CEQA Environmental Review Changes",
+   "summary": "Deadlines and limits on environmental review and lawsuits for housing, transit, water, clean-energy and wildfire projects.",
+   "pros": [
+    "Faster clean-energy, transit and wildfire projects"
+   ],
+   "cons": [
+    "Weakens environmental review (climate groups oppose)",
+    "Build-more housing approach"
+   ],
+   "money": "Building a Better California $10M, Building Industry Assn $5.65M. Against: Coalition for Clean Air, CA Environmental Voters.",
+   "rec": {
+    "vote": "NO",
+    "lean": false,
+    "why": "Weakens environmental review."
+   }
+  },
+  {
+   "type": "banner",
+   "text": "County Measures"
+  },
+  {
+   "type": "measure",
+   "title": "County of San Diego — Measure A",
+   "subtitle": "Charter Amendment",
+   "summary": "Independent ethics commission, budget analyst and auditor; confirmation of senior county leaders; spending disclosure; supervisor term limits raised from two to three terms.",
+   "pros": [
+    "Anti-corruption: ethics commission, auditor, disclosure",
+    "Not a tax"
+   ],
+   "cons": [
+    "Extends term limits for the sitting supervisors who put it on the ballot"
+   ],
+   "money": "Yes $45K, No $0. Self-interest on the term-limit piece.",
+   "rec": {
+    "vote": "YES",
+    "lean": true,
+    "why": "Ethics commission and auditor outweigh the term-limit extension."
+   }
+  },
+  {
+   "type": "measure",
+   "title": "County of San Diego — Measure B",
+   "subtitle": "Health & Safety Act",
+   "summary": "Permanent half-cent countywide sales tax (~$400–450M/yr): 60% health, child care and food; 22.5% Tijuana River sewage; 17.5% wildfire and public safety.",
+   "pros": [
+    "Fixes Tijuana River sewage; wildfire funding",
+    "Audits and oversight"
+   ],
+   "cons": [
+    "Permanent sales-tax increase with no end date (your tax filter)"
+   ],
+   "money": "Yes $2.3M (hospital association, SEIU, Dems — groups that receive the money) vs No $149K (Taxpayers Assn, Reform California).",
+   "rec": {
+    "vote": "NO",
+    "lean": false,
+    "why": "Permanent sales-tax increase."
+   }
+  },
+  {
+   "type": "banner",
+   "text": "School Measures"
+  },
+  {
+   "type": "measure",
+   "title": "San Diego Unified — School Facilities Bond (reported as Measure M)",
+   "subtitle": "",
+   "summary": "$3.5B in bonds for school facilities, about $32 per $100,000 of assessed value. Needs 55%.",
+   "pros": [
+    "School repairs; district says the tax rate won't rise above current"
+   ],
+   "cons": [
+    "$3.5B property-tax-backed debt"
+   ],
+   "money": "Backed by Taxpayers Assn, teachers union, Dems. No organized opposition.",
+   "rec": {
+    "vote": "NO",
+    "lean": true,
+    "why": "New $3.5B property-tax-backed debt."
+   }
+  }
+ ]
+}
