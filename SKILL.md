@@ -50,4 +50,6 @@ Produces `<election-folder>/<name>.html` + `.pdf` (Letter, page-numbered, clean 
  ]
 }
 ```
+**Other languages**: set `meta.lang` (e.g. `"es"`) and `meta.labels` to override the built-in UI text — keys: `corruption, money, incumbent, prior_pick, lean, best, vote_for, yes, no, recommendation, rules_title, rules_footer, legend_pro, legend_con, legend_corr, legend_rec, page, of, question` (defaults in `scripts/build_ballot.py`). Write all content in that language too.
+
 Full worked example: `assets/example-ballot-data.json` (San Diego, Nov 3 2026). Styling lives in `assets/ballot.css` (print rules: `@page` Letter with "Page X of Y" footer, `break-inside: avoid` on each contest, 2-column flow that reads down the left column then the right on each page).

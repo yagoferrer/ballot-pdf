@@ -13,7 +13,7 @@ ABS="$(cd "$(dirname "$OUT.html")" && pwd)/$(basename "$OUT.html")"
   --print-to-pdf="${ABS%.html}.pdf" "file://$ABS" >/dev/null 2>&1
 
 pdfinfo "$OUT.pdf" | grep -E "Pages|Page size"
-pdftotext "$OUT.pdf" - | grep -o "Page [0-9]* of [0-9]*" | tr '\n' ' '; echo
+pdftotext "$OUT.pdf" - | grep -oE "(Page|Página) [0-9]+ (of|de) [0-9]+" | tr '\n' ' '; echo
 mkdir -p "$PREV" && rm -f "$PREV"/pg-*.png
 pdftoppm -r 60 -png "$OUT.pdf" "$PREV/pg"
 echo "previews: $(ls "$PREV"/pg-*.png | tr '\n' ' ')"
